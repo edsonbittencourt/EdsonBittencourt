@@ -1,4 +1,4 @@
-<h2 align="left">Opa! 👋 </h2>
+<h2 align="left">Opa 🤙</h2>
 
 ###
 
@@ -24,6 +24,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/1AOn-eEVa3cAAAAd/chaves-seu-madruga.gif"  />
 
 ###
 
@@ -76,10 +80,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="30" alt="unix logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/1AOn-eEVa3cAAAAd/chaves-seu-madruga.gif"  />
 
 ###
 
