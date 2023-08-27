@@ -1,0 +1,17 @@
+#compdef kompose
+
+# zsh completions for 'kompose'
+# automatically generated with http://github.com/RobSis/zsh-completion-generator
+local arguments
+
+arguments=(
+  '--error-on-warning[treat any warning as an error]'
+  {-f,--file}'[specify an alternative compose file]'
+  {-h,--help}'[help for kompose]'
+  '--provider[specify a provider. Kubernetes or OpenShift. (default "kubernetes")]'
+  '--suppress-warnings[suppress all warnings]'
+  {-v,--verbose}'[verbose output]'
+  '*:filename:_files'
+)
+
+_arguments -s $arguments
