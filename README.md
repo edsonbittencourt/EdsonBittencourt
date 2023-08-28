@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skills 
 <div align="center">  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -55,7 +55,7 @@
 <br/>  
 
 
-## Connect with me  
+## Fale comigo
 <div align="center">
 <a href="https://github.com/EdsonBittencourt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -72,27 +72,11 @@
 <br/>  
 
 
-## Github Stats  
+## Status
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonbittencourt&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=EdsonBittencourt&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/edsonbittencourt" target="_blank" style="display: inline-block;">
@@ -103,5 +87,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
